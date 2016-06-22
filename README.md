@@ -1,7 +1,7 @@
-# Clipboard-monitor
+### Clipboard-monitor
 
 This is a simple Windows clipboard monitor written in Java.
 
-# Contact
+### Contact
 
 * Viktar Arlou (varlou@gmail.com)
